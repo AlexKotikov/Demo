@@ -1,0 +1,27 @@
+# Demo
+
+Hello. I store my programs here:
+
+1) A java-tool for a work with OCR-core (text scanner) in my Ubuntu.
+you can find it here https://github.com/AlexKotikov/GOCRtool
+
+
+2) Calculator with brackets. 
+https://github.com/AlexKotikov/calcWithBrackets
+In order to get much experience with a debugger and study parsing 
+I've decided to write a calculator which can calculate expressions with brackets
+ like MS Excel does it. In future I may will be add functions and cells too.
+ 
+I've used here: regexp, pattern "iterator", work with String, tests, collections.
+
+v 0.1
+
+ Calc can calculate properly expressions like these:
+ 1-343.24/5*434.12*2.12/1+21*2126-12 or
+ -0*-3-38*-0*-99.3090/-9+10/9*-2/9-8-7+9*30/1*-2.0+6-2.32*-93/3.222/32+0*32*0+3/32-3/-3*11/2*-0+32/21/222+2*9/-100
+
+v 0.2 (current)
+
+At present it can calc properly simple expressions like these: 
+(4-(3/(2+1)+(-20-3)/3)*4)  
+-1+(5+(4-(3/(2+1)+(-20-3)/3)*4))
