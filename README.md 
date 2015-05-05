@@ -25,3 +25,8 @@ v 0.2 (current)
 At present it can calc properly simple expressions like these: 
 (4-(3/(2+1)+(-20-3)/3)*4)  
 -1+(5+(4-(3/(2+1)+(-20-3)/3)*4))
+
+
+3) Experiments with automated tests (Selenium)
+Tests for an address book application.
+https://github.com/AlexKotikov/repo1
