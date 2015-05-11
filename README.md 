@@ -33,3 +33,7 @@ At present it can calc properly simple expressions like these:
 3) Experiments with automated tests (Selenium)
 Tests for an address book application.
 https://github.com/AlexKotikov/repo1
+
+
+4) Unit testing of equals() + hashCode() for a some class with errors
+https://github.com/AlexKotikov/hh3/tree/master/src/test/java/org/kotikov/hh/t3
