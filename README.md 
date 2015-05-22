@@ -14,7 +14,7 @@ In order to get much experience with a debugger and study parsing
 I've decided to write a calculator which can calculate expressions with brackets
  like MS Excel does it. In future I may will be add functions and cells too.
  
-I've used here: regexp, pattern "iterator", work with String, tests, collections.
+I've used here: regexp, pattern "Iterator", work with String, TestNG tests, collections.
 
 v 0.1
 
