@@ -1,6 +1,6 @@
 # Demo
 
-Hello. I store my programs here:
+Hello. I store my code here:
 
 
 1) A java-tool for a work with OCR-core (text scanner) in my Ubuntu.
@@ -30,10 +30,27 @@ At present it can calc properly simple expressions like these:
 ---------------------------------------------------------------------------
 
 
-3) Experiments with automated tests (Selenium)
+3) Experiments with Selenium automated tests (data from XML, DB, text files...)
 Tests for an address book application.
 https://github.com/AlexKotikov/repo1
 
 
 4) Unit testing of equals() + hashCode() for a some class with errors
+Used here a specific tool-class for a testing;
 https://github.com/AlexKotikov/hh3/tree/master/src/test/java/org/kotikov/hh/t3
+ 
+
+5)A simple factory pattern  
+https://github.com/AlexKotikov/hh/tree/master/src/org/kotikov/hh/solution
+
+
+7) Parameterized JUnit tests for a Triangle class 
+I have the singleton-based class with inner class which returns a triangle object;
+Testing task is: to check whether a triangle is the right-angled one;
+
+I used here:
+JUnit; 
+JUnit params;
+BigDecimal digits;
+I wrote my own class data-generator for tests;
+Total: 829 tests
