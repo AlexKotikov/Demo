@@ -44,7 +44,7 @@ https://github.com/AlexKotikov/hh3/tree/master/src/test/java/org/kotikov/hh/t3
 https://github.com/AlexKotikov/hh/tree/master/src/org/kotikov/hh/solution
 
 
-7) Parameterized JUnit tests for a Triangle class 
+6) Parameterized JUnit tests for a Triangle class 
 I have the singleton-based class with inner class which returns a triangle object;
 Testing task is: to check whether a triangle is the right-angled one;
 
