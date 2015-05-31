@@ -45,6 +45,7 @@ https://github.com/AlexKotikov/hh/tree/master/src/org/kotikov/hh/solution
 
 
 6) Parameterized JUnit tests for a Triangle class 
+https://github.com/AlexKotikov/ya
 I have the singleton-based class with inner class which returns a triangle object;
 Testing task is: to check whether a triangle is the right-angled one;
 
@@ -52,5 +53,17 @@ I used here:
 JUnit; 
 JUnit params;
 BigDecimal digits;
+
 I wrote my own class data-generator for tests;
 Total: 829 tests
+
+
+7) My tests for a SPA-application (e-shop)
+https://github.com/AlexKotikov/PricePage
+
+Testing task: To check a product adding  ability (it called "offer" in this context) to a cart on different pages. 
+I used here:
+Selenium WD (with "Find By" annotations), JUnit, JUnitparams, XStream (XML loader), regexp, Xpath
+patterns: page object, page factory
+You can watch a video about how it works: https://yadi.sk/i/O2stxDCLgxjDo
+Total:   33 tests/scenarios
