@@ -38,9 +38,9 @@ https://github.com/AlexKotikov/repo1
 4) Unit testing of equals() + hashCode() for a some class with errors
 Used here a specific tool-class for a testing;
 https://github.com/AlexKotikov/hh3/tree/master/src/test/java/org/kotikov/hh/t3
- 
+Total: 12 tests
 
-5)A simple factory pattern  
+5) A simple factory pattern  
 https://github.com/AlexKotikov/hh/tree/master/src/org/kotikov/hh/solution
 
 
